@@ -10,4 +10,4 @@ It's interesting how many skills are listed that I've never even heard of. It lo
 
 ### Nicolas Izurieta:
 
-It's interesting to compare how my track in learning to code and etc compare to this suggested track. It's also interesting to see how things might be different for me if I had followed a path like the one mentioned in the article
+It's interesting to compare how my track in learning to code and etc compare to this suggested track. It's also interesting to see how things might be different for me if I had followed a path like the one mentioned in the article.
